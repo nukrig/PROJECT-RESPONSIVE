@@ -126,7 +126,7 @@ nav ul li a{
     text-align: center;
 }
 .text p{
-    font-family: sans-serif;
+    font-family: san;
     font-size: 15px;
     line-height: 18px;
     color: #777;
@@ -293,7 +293,6 @@ hr{
     color:rgb(228, 64, 160);
     font-weight: bold;
     margin-bottom: 20px; 
-    font-family: sans-serif
 }
 .link-title small{
     font-size: 15px;
