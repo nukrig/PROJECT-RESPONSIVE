@@ -21,11 +21,11 @@
 h2{
     font-size: 30px;
     font-weight: bold;
-    font-family: cursive;
+    font-family:sans-serif;
     margin-bottom: 10px;
 }
 .header-text p{
-    font-family: cursive;
+    font-family: sans-serif;
     font-size: 15px;
     line-height: 18px;
     color: #777;
@@ -126,7 +126,7 @@ nav ul li a{
     text-align: center;
 }
 .text p{
-    font-family: cursive;
+    font-family: sans-serif;
     font-size: 15px;
     line-height: 18px;
     color: #777;
@@ -136,7 +136,7 @@ nav ul li a{
     font-size: 20px;
     color: black;
     text-align: right;
-    font-family: cursive;
+    font-family: sans-serif;
 }
 .link{
     float: right;
@@ -205,7 +205,7 @@ nav ul li a{
 .course-text h4{
     font-weight:300;
     font-size: 18px;
-    font-family: cursive;
+    font-family: sans-serif;
     margin-bottom: 10px;
 }
 .course-text p{
@@ -293,6 +293,7 @@ hr{
     color:rgb(228, 64, 160);
     font-weight: bold;
     margin-bottom: 20px; 
+    font-family: sans-serif
 }
 .link-title small{
     font-size: 15px;
@@ -351,12 +352,8 @@ hr{
     #header{
         background-image: none;
     }
-    .container{
-        margin-right: 50px;
-        margin-left: 50px;
-    }
     .logo{
-        margin-top: 27px;
+        /* margin-top: 27px; */
         width: 70px;
     }
     .header-text{
